@@ -1,10 +1,6 @@
 [
-  { "id": "cov-1", "area": "Kediri Kota", "status": "active" },
-  { "id": "cov-2", "area": "Pare", "status": "active" },
-  { "id": "cov-3", "area": "Ngasem", "status": "active" },
-  { "id": "cov-4", "area": "Wates", "status": "active" },
-  { "id": "cov-5", "area": "Gurah", "status": "coming_soon" },
-  { "id": "cov-6", "area": "Plosoklaten", "status": "coming_soon" },
-  { "id": "cov-7", "area": "Mojo", "status": "planned" },
-  { "id": "cov-8", "area": "Semen", "status": "planned" }
+  { "id": "cov-1", "area": "Gurah", "status": "active" },
+  { "id": "cov-2", "area": "Plosoklaten", "status": "active" },
+  { "id": "cov-3", "area": "Mojo", "status": "planned" },
+  { "id": "cov-4", "area": "Semen", "status": "planned" }
 ]
