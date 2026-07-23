@@ -63,7 +63,7 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  apiBaseUrl: "apiBaseUrl: "https://isp-backend.bimajokosaputra99.workers.dev",", // isi dengan URL worker setelah dideploy, mis. "https://isp-backend.namakamu.workers.dev"
+apiBaseUrl: "https://isp-backend.bimajokosaputra99.workers.dev",
   company: {
     name: "INSANNET",
     legalName: "Insan Network",
