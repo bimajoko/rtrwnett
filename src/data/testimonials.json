@@ -1,0 +1,26 @@
+[
+  {
+    "id": "test-1",
+    "name": "Dimas Prasetyo",
+    "role": "Pelanggan Rumahan",
+    "area": "Kediri Kota",
+    "rating": 5,
+    "quote": "Instalasi cepat, sinyal stabil buat kerja WFH dan streaming bareng keluarga."
+  },
+  {
+    "id": "test-2",
+    "name": "Sri Wahyuni",
+    "role": "Pemilik Warung Kopi",
+    "area": "Pare",
+    "rating": 5,
+    "quote": "Pelanggan warung jadi betah karena WiFi kencang, admin juga responsif kalau ada kendala."
+  },
+  {
+    "id": "test-3",
+    "name": "Fajar Ramadhan",
+    "role": "Karyawan Startup",
+    "area": "Ngasem",
+    "rating": 4,
+    "quote": "Harga terjangkau untuk kecepatan yang didapat, cocok buat video call setiap hari."
+  }
+]

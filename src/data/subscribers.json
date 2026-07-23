@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PLG001",
+    "name": "Budi Santoso",
+    "phone": "0812xxxxxx01",
+    "address": "Jl. Merdeka No. 12, Kediri",
+    "packageId": "pkt-fast",
+    "status": "paid",
+    "nextBillingDate": "2026-08-05",
+    "lastPaymentDate": "2026-07-05"
+  },
+  {
+    "id": "PLG002",
+    "name": "Siti Aminah",
+    "phone": "0812xxxxxx02",
+    "address": "Jl. Melati No. 5, Kediri",
+    "packageId": "pkt-basic",
+    "status": "unpaid",
+    "nextBillingDate": "2026-07-20",
+    "lastPaymentDate": "2026-06-18"
+  },
+  {
+    "id": "PLG003",
+    "name": "Andi Wijaya",
+    "phone": "0812xxxxxx03",
+    "address": "Jl. Anggrek No. 21, Kediri",
+    "packageId": "pkt-ultra",
+    "status": "paid",
+    "nextBillingDate": "2026-08-10",
+    "lastPaymentDate": "2026-07-10"
+  }
+]

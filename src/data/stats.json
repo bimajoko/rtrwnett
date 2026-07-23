@@ -1,0 +1,6 @@
+[
+  { "id": "stat-1", "label": "Pelanggan Aktif", "value": "12.500+" },
+  { "id": "stat-2", "label": "Area Cakupan", "value": "24 Kecamatan" },
+  { "id": "stat-3", "label": "Uptime Jaringan", "value": "99.5%" },
+  { "id": "stat-4", "label": "Tahun Beroperasi", "value": "8 Tahun" }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pkt-basic",
+    "name": "Starter",
+    "speed": "20 Mbps",
+    "price": 165000,
+    "period": "bulan",
+    "popular": false,
+    "features": [
+      "Unlimited kuota",
+      "1 perangkat WiFi router",
+      "Ideal untuk 1-3 pengguna",
+      "Free instalasi"
+    ]
+  },
+  {
+    "id": "pkt-fast",
+    "name": "Turbo",
+    "speed": "50 Mbps",
+    "price": 255000,
+    "period": "bulan",
+    "popular": true,
+    "features": [
+      "Unlimited kuota",
+      "Router dual-band WiFi 5",
+      "Ideal untuk 4-6 pengguna",
+      "Free instalasi",
+      "Prioritas gangguan 24 jam"
+    ]
+  },
+  {
+    "id": "pkt-ultra",
+    "name": "Ultra",
+    "speed": "100 Mbps",
+    "price": 385000,
+    "period": "bulan",
+    "popular": false,
+    "features": [
+      "Unlimited kuota",
+      "Router WiFi 6",
+      "Ideal untuk 7-10 pengguna & gaming/streaming",
+      "Free instalasi",
+      "Prioritas gangguan 24 jam",
+      "IP publik opsional"
+    ]
+  },
+  {
+    "id": "pkt-business",
+    "name": "Business",
+    "speed": "200 Mbps",
+    "price": 750000,
+    "period": "bulan",
+    "popular": false,
+    "features": [
+      "Unlimited kuota, dedicated bandwidth",
+      "SLA 99.5% uptime",
+      "Ideal untuk kantor & UMKM",
+      "Free instalasi & maintenance",
+      "Dukungan teknis prioritas"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "faq-1",
+    "question": "Berapa lama proses instalasi setelah mendaftar?",
+    "answer": "Proses survei dan instalasi biasanya memakan waktu 1-3 hari kerja setelah pendaftaran dikonfirmasi, tergantung ketersediaan jaringan di lokasi Anda."
+  },
+  {
+    "id": "faq-2",
+    "question": "Apakah ada biaya pemasangan?",
+    "answer": "Untuk semua paket, biaya instalasi standar sudah termasuk gratis selama masa promo berlangsung."
+  },
+  {
+    "id": "faq-3",
+    "question": "Bagaimana jika terjadi gangguan jaringan?",
+    "answer": "Tim teknis kami siaga melalui WhatsApp dan hotline setiap hari sesuai jam operasional, dengan target penanganan gangguan maksimal 1x24 jam."
+  },
+  {
+    "id": "faq-4",
+    "question": "Apakah kecepatan internet stabil saat jam sibuk?",
+    "answer": "Ya, jaringan fiber optic kami dirancang dengan kapasitas bandwidth yang memadai sehingga kecepatan tetap stabil meski digunakan bersamaan oleh banyak pengguna."
+  },
+  {
+    "id": "faq-5",
+    "question": "Bisakah saya upgrade paket di kemudian hari?",
+    "answer": "Tentu, Anda dapat mengajukan upgrade atau downgrade paket kapan saja melalui WhatsApp tanpa biaya tambahan."
+  }
+]
