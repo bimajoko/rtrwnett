@@ -9,7 +9,6 @@ export function Footer() {
     { label: "Facebook", href: social.facebook },
     { label: "Instagram", href: social.instagram },
     { label: "TikTok", href: social.tiktok },
-    { label: "Telegram", href: social.telegram },
     { label: "YouTube", href: social.youtube },
   ];
 
