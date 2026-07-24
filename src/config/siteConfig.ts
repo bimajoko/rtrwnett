@@ -57,7 +57,6 @@ export interface SiteConfig {
     facebook: string;
     instagram: string;
     tiktok: string;
-    telegram: string;
     youtube: string;
   };
 }
