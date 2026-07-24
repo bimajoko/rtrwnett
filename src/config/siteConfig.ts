@@ -94,9 +94,8 @@ apiBaseUrl: "https://isp-backend.bimajokosaputra99.workers.dev",
     whatsappDisplay: "0812-3456-7890",
     email: "halo@nexusnet.id",
     address: "Jl. Merdeka No. 88, Kediri, Jawa Timur",
-    googleMapsEmbedUrl:
-      "<div class="embed-map-fixed"><div class="embed-map-container"><iframe class="embed-map-frame" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&height=400&hl=en&q=https%3A%2F%2Fshare.google%2FMN5oUb8zDZyRLx07E&t=&z=14&ie=UTF8&iwloc=B&output=embed"></iframe><a href="https://classicjoy.games" style="font-size:2px!important;color:gray!important;position:absolute;bottom:0;left:0;z-index:1;max-height:1px;overflow:hidden">Retro Games Online</a></div><style>.embed-map-fixed{position:relative;text-align:right;width:600px;height:400px;}.embed-map-container{overflow:hidden;background:none!important;width:600px;height:400px;}.embed-map-frame{width:600px!important;height:400px!important;}</style></div>",
-    googleMapsLink: "https://share.google/MN5oUb8zDZyRLx07E",
+  googleMapsEmbedUrl: "https://www.google.com/maps?q=Klanderan,+Kec.+Plosoklaten,+Kabupaten+Kediri,+Jawa+Timur&output=embed",
+googleMapsLink: "https://www.google.com/maps/place/Klanderan,+Kec.+Plosoklaten,+Kabupaten+Kediri,+Jawa+Timur",
     operatingHours: "Senin - Minggu, 08.00 - 21.00 WIB",
   },
   social: {
