@@ -99,11 +99,10 @@ googleMapsLink: "https://www.google.com/maps/place/Klanderan,+Kec.+Plosoklaten,+
     operatingHours: "Senin - Minggu, 08.00 - 21.00 WIB",
   },
   social: {
-    facebook: "https://facebook.com/nexusnet.id",
-    instagram: "https://instagram.com/nexusnet.id",
-    tiktok: "https://tiktok.com/@nexusnet.id",
-    telegram: "https://t.me/nexusnet_id",
-    youtube: "https://youtube.com/@nexusnet.id",
+    facebook: "https://facebook.com/insannet",
+    instagram: "https://instagram.com/insannet",
+    tiktok: "https://tiktok.com/@insannet",
+    youtube: "https://youtube.com/insannet",
   },
 };
 
