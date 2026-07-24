@@ -6,6 +6,10 @@ export function Hero() {
   const { company } = siteConfig;
   const { stats, promo } = useSiteData();
 
+  const words = company.tagline.trim().split(" ");
+  const lastWord = words.pop();
+  const restOfTagline = words.join(" ");
+
   return (
     <section className="hero" id="top">
       <div className="container hero__inner">
@@ -16,7 +20,9 @@ export function Hero() {
               {promo.title}
             </span>
           )}
-          <h1>{company.tagline}</h1>
+          <h1>
+            {restOfTagline} <span className="text-gradient">{lastWord}</span>
+          </h1>
           <p>{company.description}</p>
           <div className="hero__cta">
             <Link to="/daftar" className="btn btn--primary btn--lg">
